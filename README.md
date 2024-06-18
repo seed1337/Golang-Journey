@@ -1,2 +1,2 @@
 # Golang-Journey
-my beginner golang projects
+uploading my beginner golang projects here, please critique! 
